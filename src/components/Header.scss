@@ -1,0 +1,9 @@
+$pt-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$pt-font-size: 12px;
+
+@import "~@blueprintjs/core/src/blueprint.scss";
+
+.header{
+  background-color: #ecebeb!important;
+  margin: 0 0 1px 0;
+}

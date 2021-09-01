@@ -1,0 +1,12 @@
+{
+  "testEnvironment": "jsdom",
+  "automock": false,
+  "setupFiles": [
+    "<rootDir>/__jest__/setupJestEnv.js",
+    "jest-localstorage-mock"
+  ],
+  "testMatch": ["<rootDir>/src/**/*.test.js"],
+  "testPathIgnorePatterns": ["/node_modules/", "/dist/"],
+  "coverageReporters": ["json"],
+  "snapshotSerializers": ["enzyme-to-json/serializer"]
+}

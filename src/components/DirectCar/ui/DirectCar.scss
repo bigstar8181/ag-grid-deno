@@ -1,0 +1,25 @@
+.direct-car {
+  min-width: 200px;
+  display:flex;
+  border: 1px solid grey;
+  height: 30px;
+  box-sizing: border-box;
+  font-size:10px;
+  overflow: hidden;
+  .item{
+    width: 80px;
+    height: 25px;
+    &.active{
+      background-color: red;
+      color:purple;
+      input{
+        color:green!important;
+        font-size:10px!important;
+      }
+    }
+  }
+  .bp3-input{
+    box-shadow: none!important
+  }
+}
+

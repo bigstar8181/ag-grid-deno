@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": "1",
+      "entryId": 3456666,
+      "make": "Toyota",
+      "P/R": "Celica",
+      "price": 14000,
+      "release": 2019,
+      "available": true,
+      "additionalProperties": {
+        "settlement": "3RT5"
+      }
+    },
+
+    {
+      "id": "2",
+      "entryId": 3456665,
+      "make": "Ford",
+      "P/R": "Mondeo",
+      "price": 22000,
+      "release": 2019,
+      "available": false,
+      "additionalProperties": {
+        "settlement": "4FHK"
+      }
+    },
+    {
+      "id": "4",
+      "entryId": 3456667,
+      "make": "Lamborghini",
+      "P/R": "Aventador",
+      "price": 250000,
+      "release": 2019,
+      "available": true,
+      "additionalProperties": {
+        "settlement": "AA6"
+      }
+    },
+    {
+      "id": "6",
+      "entryId": 3456669,
+      "make": "Kia",
+      "P/R": "Rio",
+      "price": 15000,
+      "release": 2019,
+      "available": true,
+      "additionalProperties": {}
+    },
+    {
+      "id": "7",
+      "entryId": 3456670,
+      "make": "Opel",
+      "P/R": "Corsa",
+      "price": 7000,
+      "release": 2019,
+      "available": false,
+      "additionalProperties": {}
+    },
+    {
+      "id": "8",
+      "entryId": 3456671,
+      "make": "Porsche",
+      "P/R": "Taycan",
+      "price": 154000,
+      "release": 2019,
+      "available": true,
+      "additionalProperties": {}
+    },
+    {
+      "id": "9",
+      "entryId": 3456672,
+      "make": "Ferrari",
+      "P/R": "F40",
+      "price": 300000,
+      "release": 2019,
+      "available": true,
+      "additionalProperties": {}
+    }
+  ]
+}
